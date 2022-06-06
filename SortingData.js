@@ -64,3 +64,5 @@ const App = ({ data }) => {
     </div>
   );
 };
+
+export default App
